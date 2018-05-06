@@ -25,7 +25,7 @@ Annotations for imagenet image classes
 
 #### 4) Project report
 
-Refer Final_report.pdf for full details of the project
+Refer [Final_report.pdf](Final_report.pdf) for full details of the project
 
 ## Screenshots
 
